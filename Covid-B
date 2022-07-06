@@ -1,0 +1,3 @@
+cd C:\Users\HP\OneDrive\Desktop\Covid-ChatBot-main
+streamlit run app.py
+
